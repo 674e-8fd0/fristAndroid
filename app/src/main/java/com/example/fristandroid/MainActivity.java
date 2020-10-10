@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //第一次push
         setContentView(R.layout.activity_main);
-        System.out.println("第二次push");
+        System.out.println("第二次push到码云");
     }
 }
